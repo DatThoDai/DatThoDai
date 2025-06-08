@@ -6,8 +6,7 @@
 
 ---
 
-
-![Snake Game](https://github.com/DatThoDai/DatThoDai/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/DatThoDai/DatThoDai/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -19,25 +18,7 @@
 
 </div>
 
-```typescript
-const developer = {
-  name: "Dat Tho Dai",
-  role: "Full-Stack Developer",
-  location: "Vietnam 🇻🇳",
-  passion: ["Creating amazing products", "Learning new technologies", "Problem solving"],
-  
-  currentlyLearning: ["Kubernetes", "Microservices", "Cloud Architecture"],
-  
-  funFact: "I turn coffee into code! ☕ → 💻",
-  
-  workingOn: {
-    frontend: ["React", "React Native", "Next.js"],
-    backend: ["Node.js", "Spring Boot", "Java"],
-    databases: ["MongoDB", "MySQL", "DynamoDB"],
-    cloud: ["AWS", "Firebase", "Docker"]
-  }
-};
-```
+I am a web and mobile application developer with a passion for creating valuable products. With experience in HTML, CSS, JavaScript, ReactJS, React Native and Java, I am always looking for opportunities to learn and develop my skills.
 
 <div align="center">
 
@@ -107,39 +88,8 @@ const developer = {
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatThoDai&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
 
-### **🏆 GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=DatThoDai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
 ### **📊 Contribution Graph**
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DatThoDai&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🎯 **Current Goals**
-
-- 🚀 **Mastering Cloud Architecture** - AWS & Microservices
-- 📱 **Building Cross-Platform Apps** - React Native Excellence  
-- 🤖 **Exploring AI Integration** - ML/AI in Web Development
-- 🌍 **Open Source Contributions** - Giving back to the community
-
----
-
-## 💡 **Fun Facts**
-
-- 🎮 I love creating interactive web experiences
-- 🌙 Night owl - I code best at night
-- ☕ Coffee is my coding fuel
-- 🎵 I listen to lo-fi music while coding
-- 🚀 Always excited about new tech trends
-
----
-
-## 📈 **Coding Activity**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
