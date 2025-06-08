@@ -8,6 +8,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="600px">
+</div>
+
+---
+
 </div>
 
 <div align="center">
