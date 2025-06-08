@@ -6,8 +6,6 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/DatThoDai/DatThoDai/output/github-contribution-grid-snake.svg)
-
 ---
 
 </div>
@@ -91,6 +89,15 @@ I am a web and mobile application developer with a passion for creating valuable
 ### **📊 Contribution Graph**
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DatThoDai&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
+
+## 📈 **Coding Activity**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   Thanks for visiting my profile! 
@@ -100,9 +107,5 @@ I am a web and mobile application developer with a passion for creating valuable
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=DatThoDai&icon=2&color=6)
 
 </div>
