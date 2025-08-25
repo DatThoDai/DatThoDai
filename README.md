@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to Dat's Digital Universe! 🌟
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+%26+Growing+%F0%9F%9A%80;Welcome+to+my+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+%26+Growing+%F0%9F%9A%80;Welcome+to+my+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
