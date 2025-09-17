@@ -81,47 +81,50 @@ I am a web and mobile application developer with a passion for creating valuable
 
 <div align="center">
   
-<!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=GitHub+Analytics+%F0%9F%93%8A;Code+Statistics+%F0%9F%92%BB;Performance+Metrics+%F0%9F%9A%80" alt="Stats Header" />
+<!-- Modern animated header with gradient effect -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00D9FF&background=0D111700&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%93%8A+GitHub+Analytics+Dashboard;%F0%9F%9A%80+Code+Performance+Metrics;%F0%9F%92%BB+Development+Statistics;%F0%9F%94%A5+Coding+Journey+Insights" alt="Animated Header" />
 
-<!-- GitHub Stats Cards with animation -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DatThoDai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&border_radius=15" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DatThoDai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border_radius=15" alt="GitHub Streak" />
+<!-- Animated wave divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=50&section=header&reversal=false&textBg=false" />
+
+<!-- Enhanced GitHub Stats Cards with modern styling -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 25px 0; flex-wrap: wrap;">
+  
+  <!-- Main Stats Card -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DatThoDai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=20&card_width=350&custom_title=🚀%20GitHub%20Stats" alt="GitHub Stats" />
+  
+  <!-- Streak Stats Card -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DatThoDai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border_radius=20" alt="GitHub Streak" />
+  
 </div>
 
-<!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- Glowing separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- Most Used Languages with enhanced styling -->
-<div style="margin: 20px 0;">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatThoDai&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&border_radius=15&card_width=600" alt="Top Languages" />
+<!-- Language Stats with enhanced design -->
+<div style="margin: 30px 0;">
+  <img width="68%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatThoDai&theme=tokyonight&layout=compact&hide_border=true&langs_count=12&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=20&card_width=650&custom_title=💻%20Most%20Used%20Languages" alt="Top Languages" />
 </div>
 
-<!-- Animated trophy -->
-<div style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=DatThoDai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+<!-- 3D Contribution Graph with modern styling -->
+<div style="margin: 30px 0;">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DatThoDai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=1a4a6b&title_color=00D9FF&custom_title=📊%20Contribution%20Activity%20-%20Coding%20Journey" alt="Activity Graph" />
 </div>
 
-<!-- 3D Contribution Calendar -->
-<div style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DatThoDai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&title_color=00F7FF&custom_title=🚀%20Contribution%20Activity%20Graph" alt="Activity Graph" />
+<!-- Modern metrics display -->
+<div style="margin: 25px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Profile%20Views-000000?style=for-the-badge&logo=github&logoColor=white&color=00D9FF&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DatThoDai&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/DatThoDai?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github" alt="GitHub Followers" />
 </div>
 
-<!-- Animated footer with metrics -->
-<div style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=Coding+with+passion+%E2%9D%A4%EF%B8%8F;Building+amazing+things+%F0%9F%9A%80;Always+learning+and+growing+%F0%9F%8C%B1;Let's+collaborate+and+create!+%F0%9F%A4%9D" alt="Footer Animation" />
-</div>
+<!-- Animated closing message -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=🌟+Passionate+about+clean+code+and+innovation;🔥+Building+the+future+one+commit+at+a+time;💡+Open+to+collaboration+and+new+opportunities;⚡+Let's+create+something+amazing+together!" alt="Closing Animation" />
 
-<!-- Profile views counter with animation -->
-<div style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=DatThoDai&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DatThoDai?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117" alt="GitHub Followers" />
-</div>
+<!-- Modern footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer&reversal=true" />
 
 </div>
-### **📊 Contribution Graph**
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DatThoDai&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
