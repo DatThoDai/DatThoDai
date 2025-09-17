@@ -81,40 +81,46 @@ I am a web and mobile application developer with a passion for creating valuable
 
 <div align="center">
   
-<!-- Modern animated header with gradient effect -->
+<!-- Modern animated header -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%93%8A+GitHub+Analytics+Dashboard;%F0%9F%9A%80+Code+Performance+Metrics;%F0%9F%92%BB+Development+Statistics;%F0%9F%94%A5+Coding+Journey+Insights" alt="Animated Header" />
 
 <!-- Animated wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=50&section=header&reversal=false&textBg=false" />
 
-<!-- Enhanced GitHub Stats Cards with modern styling -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 25px 0; flex-wrap: wrap;">
-  
-  <!-- Main Stats Card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DatThoDai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=20&card_width=350&custom_title=🚀%20GitHub%20Stats" alt="GitHub Stats" />
-  
-  <!-- Streak Stats Card -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DatThoDai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border_radius=20" alt="GitHub Streak" />
-  
+<!-- GitHub Streak Stats (thường ổn định hơn) -->
+<div style="margin: 25px 0;">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DatThoDai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border_radius=20" alt="GitHub Streak" />
 </div>
 
 <!-- Glowing separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- Language Stats with enhanced design -->
-<div style="margin: 30px 0;">
-  <img width="68%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatThoDai&theme=tokyonight&layout=compact&hide_border=true&langs_count=12&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=20&card_width=650&custom_title=💻%20Most%20Used%20Languages" alt="Top Languages" />
-</div>
-
-<!-- 3D Contribution Graph with modern styling -->
+<!-- Alternative: Contribution Graph -->
 <div style="margin: 30px 0;">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DatThoDai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=1a4a6b&title_color=00D9FF&custom_title=📊%20Contribution%20Activity%20-%20Coding%20Journey" alt="Activity Graph" />
 </div>
 
-<!-- Simple animated text without typing effect -->
+<!-- Alternative Stats Display with Shields.io -->
+<div style="margin: 30px 0;">
+  <img src="https://img.shields.io/badge/GitHub-Profile-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Developer-Full%20Stack-00D9FF?style=for-the-badge&logo=code&logoColor=white&labelColor=0D1117" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-00D9FF?style=for-the-badge&logo=mobile&logoColor=white&labelColor=0D1117" alt="Web & Mobile" />
+</div>
+
+<!-- Animated coding GIF -->
+<div style="margin: 30px 0;">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
+</div>
+
+<!-- Tech Stack Animation -->
+<div style="margin: 25px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+React+%7C+React+Native+%7C+Node.js;💻+JavaScript+%7C+Java+%7C+MongoDB;☁️+AWS+%7C+Docker+%7C+Kubernetes;🎯+Always+learning+new+technologies!" alt="Tech Stack" />
+</div>
+
+<!-- Simple stats text -->
 <div style="margin: 25px 0;">
   <h3 style="color: #00D9FF; font-family: 'JetBrains Mono', monospace; text-align: center;">
-    🌟 Passionate Developer | 🚀 Always Learning | 💡 Open to Collaborate
+    🌟 Passionate Developer | 🚀 Building Digital Solutions | 💡 Open Source Contributor
   </h3>
 </div>
 
