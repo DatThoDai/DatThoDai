@@ -14,28 +14,56 @@
 
 </div>
 
+<!-- About Me Section with Modern Design -->
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=50&section=header" />
 
-## 🌟 **About Me** 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=🌟+About+Me;👨‍💻+Developer+Profile;🚀+Creative+Coder" alt="About Me Header" />
+
+<div style="background: linear-gradient(135deg, #0D1117 0%, #1a1b27 100%); padding: 20px; border-radius: 15px; margin: 20px; border: 1px solid #00F7FF33;">
+
+**🎯 Passionate Developer | 🌐 Digital Innovator | 💡 Problem Solver**
+
+I am a web and mobile application developer with a passion for creating valuable products. With experience in **HTML, CSS, JavaScript, ReactJS, React Native** and **Java**, I am always looking for opportunities to learn and develop my skills.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
 </div>
 
-I am a web and mobile application developer with a passion for creating valuable products. With experience in HTML, CSS, JavaScript, ReactJS, React Native and Java, I am always looking for opportunities to learn and develop my skills.
+</div>
 
+<!-- Connect Section with Enhanced Design -->
 <div align="center">
 
-## 🌐 **Connect with me**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=🌐+Connect+With+Me;🤝+Let's+Collaborate;📫+Get+In+Touch" alt="Connect Header" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/阮文达)
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 25px 0;">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10)](https://instagram.com/阮文达)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndat04913@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/datthodai)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DatThoDai)
 
----
+</div>
 
-## 💻 **Technology Arsenal**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
-### **Frontend Development**
+</div>
+
+<!-- Technology Arsenal with Modern Animations -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=50&section=header&reversal=true" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+Technology+Arsenal;🛠️+Development+Stack;⚡+My+Toolkit" alt="Tech Header" />
+
+<!-- Animated Tech GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+### **🎨 Frontend Development**
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,23 +71,39 @@ I am a web and mobile application developer with a passion for creating valuable
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **Mobile Development**
+</div>
+
+### **📱 Mobile Development**
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### **Backend Development**
+</div>
+
+### **⚙️ Backend Development**
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-### **Database & Cloud**
+</div>
+
+### **🗄️ Database & Cloud**
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### **DevOps & Tools**
+</div>
+
+### **🚀 DevOps & Tools**
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -67,13 +111,24 @@ I am a web and mobile application developer with a passion for creating valuable
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### **Development Tools**
+</div>
+
+### **🛠️ Development Tools**
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+
+<!-- Tech Stack Summary Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Mastering+React+%26+React+Native+for+Cross-Platform+Development;💻+Building+Scalable+Backend+with+Node.js+%26+Java+Spring;☁️+Deploying+Cloud+Solutions+with+AWS+%26+Docker;🎯+Always+exploring+cutting-edge+technologies!" alt="Tech Summary" />
+
+</div>
 
 ---
 
@@ -109,20 +164,6 @@ I am a web and mobile application developer with a passion for creating valuable
 <div style="margin: 30px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
 </div>
-
-<!-- Tech Stack Animation - Thử service khác -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+React+%7C+React+Native+%7C+Node.js;%F0%9F%92%BB+JavaScript+%7C+Java+%7C+MongoDB;%E2%98%81%EF%B8%8F+AWS+%7C+Docker+%7C+Kubernetes;%F0%9F%8E%AF+Always+learning+new+technologies!" alt="Tech Stack" />
-
-<!-- Nếu vẫn không hiện, thay bằng static badges -->
-### **🚀 Tech Stack Summary**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
