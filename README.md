@@ -82,7 +82,7 @@ I am a web and mobile application developer with a passion for creating valuable
 <div align="center">
   
 <!-- Modern animated header with gradient effect -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00D9FF&background=0D111700&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%93%8A+GitHub+Analytics+Dashboard;%F0%9F%9A%80+Code+Performance+Metrics;%F0%9F%92%BB+Development+Statistics;%F0%9F%94%A5+Coding+Journey+Insights" alt="Animated Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%93%8A+GitHub+Analytics+Dashboard;%F0%9F%9A%80+Code+Performance+Metrics;%F0%9F%92%BB+Development+Statistics;%F0%9F%94%A5+Coding+Journey+Insights" alt="Animated Header" />
 
 <!-- Animated wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=50&section=header&reversal=false&textBg=false" />
@@ -111,15 +111,12 @@ I am a web and mobile application developer with a passion for creating valuable
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DatThoDai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=1a4a6b&title_color=00D9FF&custom_title=📊%20Contribution%20Activity%20-%20Coding%20Journey" alt="Activity Graph" />
 </div>
 
-<!-- Modern metrics display -->
-<div style="margin: 25px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Profile%20Views-000000?style=for-the-badge&logo=github&logoColor=white&color=00D9FF&labelColor=0D1117" alt="Profile Views" />
-  <img src="https://komarev.com/ghpvc/?username=DatThoDai&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/DatThoDai?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github" alt="GitHub Followers" />
+<!-- Simple animated text without typing effect -->
+<div style="margin: 25px 0;">
+  <h3 style="color: #00D9FF; font-family: 'JetBrains Mono', monospace; text-align: center;">
+    🌟 Passionate Developer | 🚀 Always Learning | 💡 Open to Collaborate
+  </h3>
 </div>
-
-<!-- Animated closing message -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=🌟+Passionate+about+clean+code+and+innovation;🔥+Building+the+future+one+commit+at+a+time;💡+Open+to+collaboration+and+new+opportunities;⚡+Let's+create+something+amazing+together!" alt="Closing Animation" />
 
 <!-- Modern footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer&reversal=true" />
