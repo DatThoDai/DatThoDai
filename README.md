@@ -116,17 +116,6 @@ I am a web and mobile application developer with a passion for creating valuable
 <div style="margin: 25px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+React+%7C+React+Native+%7C+Node.js;💻+JavaScript+%7C+Java+%7C+MongoDB;☁️+AWS+%7C+Docker+%7C+Kubernetes;🎯+Always+learning+new+technologies!" alt="Tech Stack" />
 </div>
-
-<!-- Simple stats text -->
-<div style="margin: 25px 0;">
-  <h3 style="color: #00D9FF; font-family: 'JetBrains Mono', monospace; text-align: center;">
-    🌟 Passionate Developer | 🚀 Building Digital Solutions | 💡 Open Source Contributor
-  </h3>
-</div>
-
-<!-- Modern footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer&reversal=true" />
-
 </div>
 
 <h3 align="center">
