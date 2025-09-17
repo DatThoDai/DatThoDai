@@ -110,8 +110,19 @@ I am a web and mobile application developer with a passion for creating valuable
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
 </div>
 
-<!-- Tech Stack Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+React+%7C+React+Native+%7C+Node.js;💻+JavaScript+%7C+Java+%7C+MongoDB;☁️+AWS+%7C+Docker+%7C+Kubernetes;🎯+Always+learning+new+technologies!" alt="Tech Stack" />
+<!-- Tech Stack Animation - Thử service khác -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+React+%7C+React+Native+%7C+Node.js;%F0%9F%92%BB+JavaScript+%7C+Java+%7C+MongoDB;%E2%98%81%EF%B8%8F+AWS+%7C+Docker+%7C+Kubernetes;%F0%9F%8E%AF+Always+learning+new+technologies!" alt="Tech Stack" />
+
+<!-- Nếu vẫn không hiện, thay bằng static badges -->
+### **🚀 Tech Stack Summary**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
