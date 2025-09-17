@@ -77,17 +77,15 @@ I am a web and mobile application developer with a passion for creating valuable
 
 ---
 
-### **📈 GitHub Statistics**
+## 📊 **GitHub Analytics**
 
-<div align="center">
-  
 <!-- Modern animated header -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%93%8A+GitHub+Analytics+Dashboard;%F0%9F%9A%80+Code+Performance+Metrics;%F0%9F%92%BB+Development+Statistics;%F0%9F%94%A5+Coding+Journey+Insights" alt="Animated Header" />
 
 <!-- Animated wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=50&section=header&reversal=false&textBg=false" />
 
-<!-- GitHub Streak Stats (thường ổn định hơn) -->
+<!-- GitHub Streak Stats -->
 <div style="margin: 25px 0;">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DatThoDai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border_radius=20" alt="GitHub Streak" />
 </div>
@@ -95,12 +93,12 @@ I am a web and mobile application developer with a passion for creating valuable
 <!-- Glowing separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- Alternative: Contribution Graph -->
+<!-- Contribution Graph -->
 <div style="margin: 30px 0;">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DatThoDai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=1a4a6b&title_color=00D9FF&custom_title=📊%20Contribution%20Activity%20-%20Coding%20Journey" alt="Activity Graph" />
 </div>
 
-<!-- Alternative Stats Display with Shields.io -->
+<!-- Stats Display with Shields.io -->
 <div style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/GitHub-Profile-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Profile" />
   <img src="https://img.shields.io/badge/Developer-Full%20Stack-00D9FF?style=for-the-badge&logo=code&logoColor=white&labelColor=0D1117" alt="Full Stack Developer" />
@@ -113,17 +111,14 @@ I am a web and mobile application developer with a passion for creating valuable
 </div>
 
 <!-- Tech Stack Animation -->
-<div style="margin: 25px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+React+%7C+React+Native+%7C+Node.js;💻+JavaScript+%7C+Java+%7C+MongoDB;☁️+AWS+%7C+Docker+%7C+Kubernetes;🎯+Always+learning+new+technologies!" alt="Tech Stack" />
-</div>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+React+%7C+React+Native+%7C+Node.js;💻+JavaScript+%7C+Java+%7C+MongoDB;☁️+AWS+%7C+Docker+%7C+Kubernetes;🎯+Always+learning+new+technologies!" alt="Tech Stack" />
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   Thanks for visiting my profile! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 </div>
