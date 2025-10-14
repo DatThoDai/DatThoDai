@@ -86,7 +86,7 @@ I am a web and mobile application developer with a passion for creating valuable
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=50&section=header&reversal=false&textBg=false" />
 
 <div style="margin: 25px 0;">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=DatThoDai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border_radius=20" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=DatThoDai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border_radius=20&cache_buster=1" alt="GitHub Streak" />
 </div>
 
 <!-- Glowing separator -->
@@ -109,7 +109,7 @@ I am a web and mobile application developer with a passion for creating valuable
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
 </div>
 
-<!-- Tech Stack Animation - Thử service khác -->
+<!-- Tech Stack Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+React+%7C+React+Native+%7C+Node.js;%F0%9F%92%BB+JavaScript+%7C+Java+%7C+MongoDB;%E2%98%81%EF%B8%8F+AWS+%7C+Docker+%7C+Kubernetes;%F0%9F%8E%AF+Always+learning+new+technologies!" alt="Tech Stack" />
 
 <h3 align="center">
