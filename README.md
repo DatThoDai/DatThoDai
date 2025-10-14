@@ -85,9 +85,8 @@ I am a web and mobile application developer with a passion for creating valuable
 <!-- Animated wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=50&section=header&reversal=false&textBg=false" />
 
-<!-- GitHub Streak Stats -->
 <div style="margin: 25px 0;">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DatThoDai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border_radius=20" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=DatThoDai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border_radius=20" alt="GitHub Streak" />
 </div>
 
 <!-- Glowing separator -->
