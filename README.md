@@ -81,13 +81,6 @@ I am a web and mobile application developer with a passion for creating valuable
 <!-- Animated wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=50&section=header&reversal=false&textBg=false" />
 
-<div style="margin: 25px 0;">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=DatThoDai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border_radius=20&cache_buster=1" alt="GitHub Streak" />
-</div>
-
-<!-- Glowing separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
 <!-- Contribution Graph -->
 <div style="margin: 30px 0;">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DatThoDai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=1a4a6b&title_color=00D9FF&custom_title=📊%20Contribution%20Activity%20-%20Coding%20Journey" alt="Activity Graph" />
